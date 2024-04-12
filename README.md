@@ -31,7 +31,7 @@
 
 # ANZAR: Outil d'application de données pour Android
 
-![Capture d'écran de l'outil](screenshot.png)
+![Capture d'écran de l'outil](Screenshot.png)
 
 ## Introduction
 ANZAR est un outil puissant intégré et autorisé pour appliquer des données d'un système complexe à une application Android de manière efficace et facile à utiliser. L'application se distingue par une interface utilisateur conviviale et un mot de passe fort pour garantir la sécurité. Cet outil a été développé à des fins éducatives uniquement et l'utilisateur est seul responsable de l'utilisation légale de l'outil, conformément aux lois locales.
